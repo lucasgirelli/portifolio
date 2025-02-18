@@ -90,7 +90,7 @@ function App() {
           </div>
           <div className="flex-1 flex justify-center">
             <img
-              src="/fotos/minhaFoto"
+              src="/fotos/minhaFoto.jpg"
               alt="Lucas Girelli"
               className="w-64 h-64 rounded-full object-cover animate-glow animate-float"
             />
